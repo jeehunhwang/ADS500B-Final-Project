@@ -1,5 +1,5 @@
 ADS500-B Final Project
 
-by Jimmy Hwang, Michael Ha, Jami McMillen
+by Michael Ha and Jimmy Hwang
 
-Data featuring house sales for a county in Washington state
+Data featuring house sales for Kings County in Washington state
